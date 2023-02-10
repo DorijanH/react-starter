@@ -59,7 +59,7 @@
         "@next/eslint-plugin-next": "12.3.4",
         "@storybook/addon-actions": "6.5.13",
         "@storybook/addon-essentials": "6.5.13",
-        "@storybook/addon-links": "6.5.13",
+        "@storybook/addon-links": "6.5.16",
         "@storybook/addons": "6.5.13",
         "@storybook/builder-webpack5": "6.5.13",
         "@storybook/manager-webpack5": "6.5.13",
